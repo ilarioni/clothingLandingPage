@@ -33,7 +33,7 @@ nav {
     padding-left: 60px;
 }
 nav ul li {
-    display: inline-block;
+    display: inline-block; 
     list-style: none;
     margin: 0px 20px;
 }
@@ -41,3 +41,18 @@ nav ul li a {
     text-decoration: none;
     color: rgb(68, 41, 41);
 } 
+.content h1 {
+    font-size: 60px;
+    font-weight: 100;
+    margin-top: 24px;
+    margin-bottom: 15px;
+    color: #232d60;
+}
+.content p {
+    font-size: 20px;
+    color: #6a7199;
+}
+.content {
+    margin-left: 10%;
+    margin-top: 10%;
+}
